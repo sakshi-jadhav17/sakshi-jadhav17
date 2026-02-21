@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=1000&color=14465C&width=435&lines=Sakshi+jadhav;Aspiring+DevOps+Engineer;Quick+fox+jumps+nightly+above+wizard" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=1000&color=37BFFB&width=435&lines=Sakshi+jadhav;Aspiring+DevOps+Engineer" alt="Typing SVG" /></a>
+
 ## Hi 👋 I'm Sakshi Jadhav
 
 Aspiring DevOps Engineer with hands-on learning in AWS, Docker, Kubernetes,
