@@ -1,0 +1,15 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f2027"></stop>
+      <stop offset="50%" stop-color="#203a43"></stop>
+      <stop offset="100%" stop-color="#2c5364"></stop>
+    </linearGradient>
+  </defs>
+
+  <rect width="100%" height="100%" fill="url(#bg)"></rect>
+
+  <text x="50%" y="55%" text-anchor="middle" font-size="110" font-weight="700" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif">
+    Sakshi Jadhav
+  </text>
+</svg>
