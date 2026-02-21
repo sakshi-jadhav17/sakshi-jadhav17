@@ -1,6 +1,6 @@
 
 <img src="https://raw.githubusercontent.com/sakshi-jadhav17/sakshi-jadhav17/main/banner.svg" />
-## Hi 👋 I'm Sakshi Jadhav
+ Hi 👋 I'm Sakshi Jadhav
 
 Aspiring DevOps Engineer with hands-on learning in AWS, Docker, Kubernetes,
 Terraform, and CI/CD pipelines.
