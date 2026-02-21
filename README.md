@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sakshi-jadhav17/sakshi-jadhav17/main/devops-banner-animated.svg" width="100%" />
+
 <img src="https://raw.githubusercontent.com/sakshi-jadhav17/sakshi-jadhav17/main/banner.svg" />
 ## Hi 👋 I'm Sakshi Jadhav
 
