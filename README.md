@@ -1,6 +1,4 @@
-<img src="./devops-banner.svg" alt="Sakshi Jadhav Banner" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3FB7FF&width=435&lines=SAKSHI+JADHAV" alt="Typing SVG" /></a>
-
+<img src="https://raw.githubusercontent.com/sakshi-jadhav17/sakshi-jadhav17/main/banner.svg" />
 ## Hi 👋 I'm Sakshi Jadhav
 
 Aspiring DevOps Engineer with hands-on learning in AWS, Docker, Kubernetes,
