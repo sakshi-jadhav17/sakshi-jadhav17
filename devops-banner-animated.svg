@@ -1,0 +1,19 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .marquee {
+            animation: marquee 10s linear infinite;
+            font-size: 24px;
+            fill: white;
+        }
+        @keyframes marquee {
+            0% { transform: translateX(100%); }
+            100% { transform: translateX(-100%); }
+        }
+        .background {
+            fill: #1e1e1e;
+        }
+    </style>
+    <rect width="100%" height="100%" class="background"/>
+    <text class="marquee" y="50%" x="100%" dominant-baseline="middle" text-anchor="start">Sakshi Jadhav - Aspiring DevOps Engineer  </text>
+    <text class="marquee" y="60%" x="100%" dominant-baseline="middle" text-anchor="start">[Tech Icons: Docker, AWS, Kubernetes, Jenkins] </text>
+</svg>
