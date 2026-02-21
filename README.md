@@ -1,3 +1,5 @@
+devops-banner-animated.svg
+
 ## Hi 👋 I'm Sakshi Jadhav
 
 Aspiring DevOps Engineer with hands-on learning in AWS, Docker, Kubernetes,
