@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sakshi-jadhav17/sakshi-jadhav17/main/devops-banner.svg" />
+  <img src="https://raw.githubusercontent.com/sakshi-jadhav17/sakshi-jadhav17/main/devops-banner-animated.svg" alt="Sakshi Jadhav DevOps Banner" />
 </p>
 
 ## Hi 👋 I'm Sakshi Jadhav
