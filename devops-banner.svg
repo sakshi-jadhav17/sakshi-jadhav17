@@ -1,0 +1,29 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <!-- Background gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f2027"></stop>
+      <stop offset="50%" stop-color="#203a43"></stop>
+      <stop offset="100%" stop-color="#6a11cb"></stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#bgGradient)"></rect>
+
+  <!-- Animated Name -->
+  <text x="-400" y="180" font-size="96" font-family="Arial, Helvetica, sans-serif" fill="#ffffff" opacity="0">
+    Sakshi Jadhav
+
+    <!-- Slide animation -->
+    <animate attributeName="x" from="-400" to="1200" dur="8s" repeatCount="indefinite"></animate>
+
+    <!-- Fade in -->
+    <animate attributeName="opacity" from="0" to="1" begin="0s" dur="2s" fill="freeze"></animate>
+
+    <!-- Fade out -->
+    <animate attributeName="opacity" from="1" to="0" begin="6s" dur="2s" fill="freeze"></animate>
+  </text>
+
+</svg>
