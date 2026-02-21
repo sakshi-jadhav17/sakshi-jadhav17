@@ -1,4 +1,4 @@
-devops-banner-animated.svg
+
 
 ## Hi 👋 I'm Sakshi Jadhav
 
